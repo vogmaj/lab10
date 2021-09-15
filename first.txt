@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 # "make a change to first.txt by adding a line of characters and save"
 # "make a change by adding a second line of characters and save"
+=======
+>>>>>>> parent of 19eee12 (new)
